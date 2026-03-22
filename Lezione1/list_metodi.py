@@ -13,4 +13,5 @@ names.sort()
 print(names)
 
 names.sort(key=lambda n : len(n), reverse=True)
+# in realtà si poteva mettere direttamente key=len
 print(names)
