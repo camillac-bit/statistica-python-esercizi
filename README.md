@@ -7,7 +7,7 @@ Gli esercizi sono organizzati per lezione, in cartelle separate.
 
 ## Struttura 
 
-- [ ] `Lezione1/` - tipi di dati semplici, operatori, tipi di dati strutturati
+- [x] `Lezione1/` - tipi di dati semplici, operatori, tipi di dati strutturati
 - [ ] `Lezione2/` - esercizi sulla seconda lezione
 - ...
 
